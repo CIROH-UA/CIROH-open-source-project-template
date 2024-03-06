@@ -8,5 +8,6 @@ mv CIROH-open-source-project-template/* .
 
 # Remove the cloned repository directory
 rm -rf CIROH-open-source-project-template
+rm -rf open_source_template.sh
 
 echo "CIROH open source project template files have been installed."
