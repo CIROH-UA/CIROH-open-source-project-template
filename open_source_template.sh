@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone the CIROH open source project template repository
-git clone https://github.com/CIROH/CIROH-open-source-project-template.git
+git clone https://github.com/sepehrkrz/CIROH-open-source-project-template.git
 
 # Move template files to the root directory of your project
 mv CIROH-open-source-project-template/* .
