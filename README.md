@@ -16,7 +16,8 @@
 To install all of the template files, run the following script from the root of your project's directory:
 
 ```
-bash -c "$(curl -s https://raw.githubusercontent.com/sepehrkrz/CIROH-open-source-project-template/open_source_template.sh)"
+bash -c "$(curl -s https://raw.githubusercontent.com/sepehrkrz/CIROH-open-source-project-template/fe745bff03da976202b376b62cdb42d7de2f92de/open_source_template.sh)"
+
 ```
 
 ----
