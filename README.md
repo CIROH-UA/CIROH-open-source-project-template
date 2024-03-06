@@ -37,7 +37,8 @@ Additional details to include:
 **Screenshot**: 
 If your project has a visual component, consider adding a screenshot here:
 
-
+![](https://raw.githubusercontent.com/sepehrkrz/CIROH-open-source-project-template/fd0c726ccae13b2196cc5f1bb54b763400e1634e/doc/Screenshot.png
+)
 
 ## Dependencies
 
