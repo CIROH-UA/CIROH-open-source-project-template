@@ -13,7 +13,11 @@
 
 ## Installation
 
-To add these files to your project, simply copy them into your project directory.
+To install all of the template files, run the following script from the root of your project's directory:
+
+```
+bash -c "$(curl -s https://raw.githubusercontent.com/sepehrkrz/CIROH-open-source-project-template/open_source_template.sh)"
+```
 
 ----
 
