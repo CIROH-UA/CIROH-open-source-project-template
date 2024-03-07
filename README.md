@@ -87,4 +87,4 @@ Encourage others to contribute to your project and describe areas where help is 
 
 ## Credits and References
 
-Acknowledge any projects that inspired yours, related projects, or sources (such as books, papers, talks) that influenced your work.
+Acknowledge any projects that inspired yours, related projects, or sources that influenced your work.
