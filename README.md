@@ -15,16 +15,15 @@
 
 To install all of the template files, run the following script from the root of your project's directory:
 
-```
-bash -c "$(curl -s https://raw.githubusercontent.com/sepehrkrz/CIROH-open-source-project-template/fe745bff03da976202b376b62cdb42d7de2f92de/open_source_template.sh)"
-
+```sh
+bash -c "$(curl -s https://raw.githubusercontent.com/CIROH-UA/CIROH-open-source-project-template/main/open_source_template.sh)"
 ```
 
 ----
 
 # Project Title
 
-**Description**: 
+**Description**:
 Provide a concise, plain-language description of your project's purpose, its significance, and the problems it addresses. Explain how this software can benefit its intended audience.
 
 Additional details to include:
@@ -34,11 +33,10 @@ Additional details to include:
 - **Links to Production or Demo Instances**: If applicable, provide links to live deployments or demo environments.
 - Highlight what sets your project apart from similar ones. If necessary, link to additional documentation or pages for further explanation.
 
-**Screenshot**: 
+**Screenshot**:
 If your project has a visual component, consider adding a screenshot here:
 
-![](https://raw.githubusercontent.com/sepehrkrz/CIROH-open-source-project-template/fd0c726ccae13b2196cc5f1bb54b763400e1634e/doc/Screenshot.png
-)
+![Example Screenshot](doc/Screenshot.png)
 
 ## Dependencies
 
@@ -68,7 +66,7 @@ Document any significant known issues or limitations with your software.
 
 Guide users on how to seek assistance with your software. This could involve directing them to an issue tracker, wiki, mailing list, etc.
 
-**Example**
+### Example
 
 For questions, concerns, bug reports, or feature requests, please open an issue on this repository's Issue Tracker.
 
